@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 ---
 
 #### Github Stats Card
-<img align="left" alt="Kvong" src="https://github-readme-stats.vercel.app/api?username=kvong"/>
+<img align="left" alt="Kvong" src="https://github-readme-stats.vercel.app/api?username=kvong&show_icons=true&theme=vue-dark"/>
