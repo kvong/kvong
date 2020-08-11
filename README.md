@@ -43,20 +43,4 @@ Here are some ideas to get you started:
 #### Github Stats Card
 <img align="left" alt="Kvong" src="https://github-readme-stats.vercel.app/api?username=kvong&show_icons=true&theme=vue-dark"/>
 
-<br/>
 
----
-
-[![R1 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Linux dotfiles)](https://github.com/kvong/dotfiles)
-[![R2 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Deep Neural Style Transfer)](https://github.com/kvong/DeepLearning-NeuralStyleTransfer)
-[![R3 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Full Stack Homepage)](https://github.com/kvong/MyHomePage)
-[![R4 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Sleep Better Media Center)](https://github.com/kvong/OSMC-Automation)
-[![R5 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=DL-Finger Digit Classification)](https://github.com/kvong/DeepLearning-FingerDigitClassification)
-[![R6 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Art Dealer Game)](https://github.com/kvong/Art-Dealer-App)
-[![R7 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=React Playground)](https://github.com/kvong/kvong.github.io)
-
-<br/>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvong&hide=jupyter%20notebook,css,html)](https://github.com/kvong/)
