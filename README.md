@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>]
 
 #### Link to Github Pages:
-[GithubPages]: (https://kvong.github.io/)
+[Github Pages](https://kvong.github.io/)
