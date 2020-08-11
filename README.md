@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Kvong" src="https://github-readme-stats.vercel.app/api?username=kvong&show_icons=true&theme=vue-dark"/>
 
 <br/>
+
 ---
 
 [![R1 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Linux dotfiles)](https://github.com/kvong/dotfiles)
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
 [![R7 Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=React Playground)](https://github.com/kvong/kvong.github.io)
 
 <br/>
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvong&hide=jupyter%20notebook,css,html)](https://github.com/kvong/)
