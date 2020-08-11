@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 
 #### Link to Github Pages:
 [Github Pages (under construction)](https://kvong.github.io/)
+
+---
+
+#### Github Stats Card
+<img align="left" alt="Kvong" src="https://github-readme-stats.vercel.app/api?username=kvong"/>
