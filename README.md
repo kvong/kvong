@@ -43,4 +43,18 @@ Here are some ideas to get you started:
 #### Github Stats Card
 <img align="left" alt="Kvong" src="https://github-readme-stats.vercel.app/api?username=kvong&show_icons=true&theme=vue-dark"/>
 
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=dotfiles)](https://github.com/kvong/dotfiles)
+<br/>
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Linux dotfiles)](https://github.com/kvong/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Deep Neural Style Transfer)](https://github.com/kvong/DeepLearning-NeuralStyleTransfer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Full Stack Homepage)](https://github.com/kvong/MyHomePage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Sleep Better Media Center)](https://github.com/kvong/OSMC-Automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=DL-Finger Digit Classification)](https://github.com/kvong/DeepLearning-FingerDigitClassification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=Art Dealer Game)](https://github.com/kvong/Art-Dealer-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvong&repo=React Playground)](https://github.com/kvong/kvong.github.io)
+
+<br/>
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvong)](https://github.com/kvong/)
