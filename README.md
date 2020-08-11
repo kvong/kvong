@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-#### Link to Github Pages:
+#### Find me or my work on the web:
 [Github Pages (under construction)](https://kvong.github.io/)
-
+[Linkedin](https://www.linkedin.com/in/khanh-vong-6b6561171/)
 ---
 
 #### Github Stats Card
