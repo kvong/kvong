@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 -->
 
 ### I'm a Computer Science Graduate and a lifelong student! 
-- 🔭 I’m currently working on a React PokeDex (almost finished)!
-- 🌱 I’m currently learning anything that catch my interest!
+- 🔭 I’m currently honing my webdev skills!
+- 🌱 I’m currently learning design patterns and optimization techniques!
 - ⚡ Fun fact: I love to workout, throw knives, and cook.
 
 
