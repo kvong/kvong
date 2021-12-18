@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="HTML5" width="30px" src="https://image.flaticon.com/icons/svg/888/888859.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://image.flaticon.com/icons/svg/888/888847.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
 <img align="left" alt="PHP" width="30px" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
-<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="Node" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
