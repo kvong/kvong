@@ -10,11 +10,10 @@
 Here are some ideas to get you started:
 -->
 
-### I'm a Computer Science Graduate and a lifelong student! 
-- 🔭 I’m currently honing my webdev skills!
-- 🌱 I’m currently learning design patterns and optimization techniques!
-- ⚡ Fun fact: I love to workout, throw knives, and cook.
-
+### I'm a Developer and a lifelong student of Computer Science! 
+- 🔭 I’m currently studying Dynamic Programming!
+- 🌱 I’m currently working through [Algorithmic Thinking: A Problem-Based Introduction](https://www.amazon.com/Algorithmic-Thinking-Problem-Based-Daniel-Zingaro/dp/1718500807)!
+- ⚡ Optimal environment: Linux, Vim, and Qtile.
 
 #### Languages:
 <img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>
