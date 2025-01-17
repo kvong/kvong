@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 -->
 
 ### I'm a Developer and a lifelong student of Computer Science! 
-- 🔭 I’m currently studying Dynamic Programming!
-- 🌱 I’m currently working through [Algorithmic Thinking: A Problem-Based Introduction](https://www.amazon.com/Algorithmic-Thinking-Problem-Based-Daniel-Zingaro/dp/1718500807)!
+- 🔭 A lot of my time is spent fine tuning Linux workflow and my homelab.
+- 🌱 I'm often experimenting with my homelab and self-host a lot of technologies including my Local AI agent!
 - ⚡ Optimal environment: Linux, Vim, and Qtile.
 
 #### Languages:
