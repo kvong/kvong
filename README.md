@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br/>
 
 #### Find me or my work on the web:
-- [Github Pages (under construction)](https://kvong.github.io/)
+- [Portfolio](https://kvong.github.io/)
 - [Linkedin](https://www.linkedin.com/in/khanh-vong-6b6561171/)
 
 ---
